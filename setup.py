@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='autosuggest',
-    version='1.1.0',
+    version='1.1.1',
     packages=find_packages(),
     description='A cross-platform auto-suggest input package with enhanced features',
     author='Ishan OShada',
