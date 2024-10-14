@@ -64,3 +64,10 @@ Contributions are welcome! If you'd like to improve this project, please submit 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or support, please contact us at Ishan.kodithuwakku.official@gmail.com
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/autosuggest/count.svg)
+
