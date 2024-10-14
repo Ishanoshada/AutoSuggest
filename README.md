@@ -1,4 +1,3 @@
-
 # AutoSuggest - Terminal Auto-Suggestion Tool
 
 **AutoSuggest** is a Python terminal application that provides auto-suggestions based on user input. It is designed to enhance the user experience by offering real-time suggestions, making it easier to select names or other items.
